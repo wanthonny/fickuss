@@ -1,0 +1,4 @@
+git удаленно добавляет источник https://github.com/wanthonny/fickuss.git
+ ветвь git -M main
+ git push -u origin main
+ 
